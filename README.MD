@@ -36,6 +36,10 @@ python chphisher.py
 * Advanced error handling
 * Very High Speed
 
+## TODO
+* Create with WebPanel in version 2
+* Bootstraped WebPanel
+
 ## ❤️ Donation 
 > bitcoin:   bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0
 

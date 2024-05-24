@@ -3,7 +3,7 @@
 </head>
 
 
-# Chphisher
+# Chphisher V1
 
 ## Project Programmer
 > Ch4120N - Ch4120ni@Gmail.com
@@ -37,8 +37,7 @@ python chphisher.py
 * Very High Speed
 
 ## TODO
-* Create with WebPanel in version 2
-* Bootstraped WebPanel
+* Create WebPanel for `Chphisher-v2`
 
 ## ❤️ Donation 
 > bitcoin:   bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0
